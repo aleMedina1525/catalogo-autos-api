@@ -1,0 +1,17 @@
+{
+  "name": "catalogo-autos-api",
+  "version": "1.0.0",
+  "description": "Microservicio web que recupera un catálogo básico de autos (marca, modelo, año, precio y color).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Alejandro Medina Martínez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
