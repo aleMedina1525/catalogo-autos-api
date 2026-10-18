@@ -30,3 +30,7 @@ El servicio queda en `http://localhost:3000`.
 - Build command: `npm install`
 - Start command: `node server.js`
 - Plan: Free
+
+O con un clic:
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/aleMedina1525/catalogo-autos-api)

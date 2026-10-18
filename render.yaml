@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: catalogo-autos-api-amm
+    runtime: node
+    plan: free
+    branch: main
+    buildCommand: npm install
+    startCommand: node server.js
+    healthCheckPath: /health
